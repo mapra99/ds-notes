@@ -1,3 +1,6 @@
 [submodule "python-notes"]
 	path = python-notes
 	url = git@github.com:mapra99/python-notes.git
+[submodule "ds-data-manipulation"]
+	path = ds-data-manipulation
+	url = git@github.com:mapra99/ds-data-manipulation.git
